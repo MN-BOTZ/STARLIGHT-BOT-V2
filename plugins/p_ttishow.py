@@ -10,7 +10,7 @@ from pyrogram.errors import ChatAdminRequired
 
 
 
-"""-----------------------------------------https://t.me/GetTGLink/4179 --------------------------------------"""
+"""-----------------------------------------https://t.me/GetTGLink/8601 --------------------------------------"""
 
 @Client.on_message(filters.new_chat_members & filters.group)
 async def save_group(bot, message):
