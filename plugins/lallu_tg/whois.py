@@ -1,4 +1,4 @@
-# codes added by @lallu_tg
+# codes added by @whitedeviljoypow
 # use with  proper credits
 
 """Get info about the replied user
