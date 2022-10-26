@@ -63,7 +63,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/AM-ROBOTS/EvaMaria
+git clone https://github.com/MN-BOTZ/STARLIGHT-BOT-V2
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
