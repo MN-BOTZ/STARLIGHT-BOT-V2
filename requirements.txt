@@ -1,4 +1,4 @@
-git+https://github.com/Whitedeviljoypow1/pyrogram@inline-m                 
+git+https://github.com/MN-BOTZ/pyrogram@inline-m
 tgcrypto
 Heroku3
 pymongo[srv]==3.11.4
