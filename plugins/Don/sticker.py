@@ -1,6 +1,6 @@
 #Made
 #by
-#Don_Sflix
+#White_devil_joypow
 
 from pyrogram import Client, filters
 
